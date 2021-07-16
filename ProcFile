@@ -1,0 +1,1 @@
+web: gunicorn RealtimeChatApp.wsgi --log-file -
